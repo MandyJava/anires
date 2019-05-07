@@ -9,7 +9,7 @@
 3. 执行以下命令：
 
 ``` bash
-git clone https://github.com/sitexa/anires.git
+git clone https://github.com/MandyJava/anires.git
 cd anires
 npm install
 npm run dev
